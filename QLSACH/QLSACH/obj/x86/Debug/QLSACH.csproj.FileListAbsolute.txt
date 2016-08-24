@@ -1,0 +1,8 @@
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\bin\Debug\QLSACH.exe.config
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\bin\Debug\QLSACH.exe
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\bin\Debug\QLSACH.pdb
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\obj\x86\Debug\QLSACH.frmNhanVien.resources
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\obj\x86\Debug\QLSACH.Properties.Resources.resources
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\obj\x86\Debug\QLSACH.csproj.GenerateResource.Cache
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\obj\x86\Debug\QLSACH.exe
+D:\LTCSDLBuoiToi\QLSACH\QLSACH\obj\x86\Debug\QLSACH.pdb
